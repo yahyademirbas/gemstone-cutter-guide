@@ -3,7 +3,7 @@ Gemstone Cutter's Guide
 Gem Cutter's Guide
 Lapidary's Guide.
 
-<b>Program is still in development. There will be an UI in the future./b>
+<b>Program is still in development. There will be an UI in the future.</b>
 
 <i>13.05.2021</i>
 Hi there, this is a simple program I created for my dad who is also a gemstone cutter. He sometimes forget the full names of gemstones and wants to find refractive index or poilshing materials in a very fast way. This is the solution I've find for my dad. Program uses Levenshtein distance algorithm in order to match our input with the gemstone names. Then shows us the refractive index (RI) and Double Refraction and correct combination of buffing wheel and polishing compound of this gemstone by reading an excel table Gem-List.xls
