@@ -37,6 +37,11 @@ Run the following line in the project folder with terminal:
 
 `python guide.py`
 
+### If you want to start the program just by clicking, you should create a batch file. Just write the below code in notepad and save as text.bat different than text.txt
+Don't forget to change the text for correct directory.
+`"C:\Program Files\Python38\python.exe" "C:\Users\user\Desktop\gemstone-cutter-guide\.venv\guide.py"
+pause`
+
 You can click the image.
 
 <a href="https://ibb.co/vBYq6Zm"><img src="https://i.ibb.co/QcdQ3rn/Ads-z.png" alt="Ads-z" border="0"></a>
