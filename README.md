@@ -13,7 +13,7 @@ btw I've manipulated the gemstone names with Regex to fit in my python script.
 
 
 
-### <i>14.05.2021</i> - Polishing combination guide added.
+### <i>14.05.2021</i> - ASCII Art, Polishing combination guide and some opaque stones added.
 
 
 
