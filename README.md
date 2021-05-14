@@ -23,6 +23,7 @@ If it is your first time using a Python code, first of all you should install Py
 
 ### Install Python dependencies
 Run the following line in the project folder with terminal: 
+
 `pip install -r requirements.txt`
 
 ### Run
