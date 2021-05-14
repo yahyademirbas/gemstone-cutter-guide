@@ -1,8 +1,8 @@
 <h1>gemstone-cutter-guide</h1>
 <body>Gemstone Cutter's Guide</body>
-
+<br></br>
 <body>Gem Cutter's Guide</body>
-
+<br></br>
 <body>Lapidary's Guide</body>
 
 <h2>Program is still in development. There will be an UI in the future.</h2>
@@ -10,8 +10,8 @@
 
 
 <body> <i>13.05.2021</i>
- 
- Hi there, this is a simple program I created for my dad who is also a gemstone cutter. He sometimes forget the full names of gemstones and wants to find refractive index or poilshing materials in a very fast way. This is the solution I've find for my dad. Program uses Levenshtein distance algorithm in order to match our input with the gemstone names. Then shows us the refractive index (RI) and Double Refraction and correct combination of buffing wheel and polishing compound of this gemstone by reading an excel table Gem-List.xls 
+ <br></br>
+Hi there, this is a simple program I created for my dad who is also a gemstone cutter. He sometimes forget the full names of gemstones and wants to find refractive index or poilshing materials in a very fast way. This is the solution I've find for my dad. Program uses Levenshtein distance algorithm in order to match our input with the gemstone names. Then shows us the refractive index (RI) and Double Refraction and correct combination of buffing wheel and polishing compound of this gemstone by reading an excel table Gem-List.xls 
 </body>
 
 btw I've manipulated the gemstone names with Regex to fit in my python script.
@@ -19,8 +19,8 @@ btw I've manipulated the gemstone names with Regex to fit in my python script.
 
 
 <body> <i>14.05.2021</i>
- 
- ASCII Art, Polishing combination guide and some opaque stones added.
+<br></br>
+ASCII Art, Polishing combination guide and some opaque stones added.
 </body>
 
 <h1></h1>
