@@ -21,6 +21,7 @@ btw I've manipulated the gemstone names with Regex to fit in my python script.
  ASCII Art, Polishing combination guide and some opaque stones added.
 </body>
 
+<h1></h1>
 
 
 
