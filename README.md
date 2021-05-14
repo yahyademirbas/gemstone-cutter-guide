@@ -1,5 +1,3 @@
-
-![Adsız](https://user-images.githubusercontent.com/74156901/118299091-fc1b6c00-b4e8-11eb-8076-f41b35ce9f5a.jpg)
 <h1>gemstone-cutter-guide</h1>
 <body>Gemstone Cutter's Guide</body>
 <br></br>
@@ -54,6 +52,3 @@ For Example
 `"C:\Program Files\Python38\python.exe" "C:\Users\user\Desktop\gemstone-cutter-guide\.venv\guide.py"
 pause`
 
-You can click the image.
-
-<a href="https://ibb.co/vBYq6Zm"><img src="https://i.ibb.co/QcdQ3rn/Ads-z.png" alt="Ads-z" border="0"></a>
