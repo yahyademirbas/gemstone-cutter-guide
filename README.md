@@ -39,7 +39,9 @@ Run the following line in the project folder with terminal:
 
 ### Run with .bat file
 If you want to start the program just by clicking, you should create a batch file. Just write the below code in notepad and save as text.bat different than text.txt
+
 Don't forget to change the text for correct directory.
+
 When you create the batch (.bat) file, create a shortcut from it to desktop or wherever you want and run program from there.
 
 `"C:\Program Files\Python38\python.exe" "C:\Users\user\Desktop\gemstone-cutter-guide\.venv\guide.py"
