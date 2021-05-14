@@ -44,6 +44,9 @@ Don't forget to change the text for correct directory.
 
 When you create the batch (.bat) file, create a shortcut from it to desktop or wherever you want and run program from there.
 
+`"Directory you've installed python" "Directory of the guide.py you downloaded from here"
+pause`
+
 `"C:\Program Files\Python38\python.exe" "C:\Users\user\Desktop\gemstone-cutter-guide\.venv\guide.py"
 pause`
 
