@@ -1,3 +1,5 @@
+
+![Adsız](https://user-images.githubusercontent.com/74156901/118299091-fc1b6c00-b4e8-11eb-8076-f41b35ce9f5a.jpg)
 <h1>gemstone-cutter-guide</h1>
 <body>Gemstone Cutter's Guide</body>
 <br></br>
