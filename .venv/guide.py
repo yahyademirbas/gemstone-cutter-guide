@@ -52,9 +52,6 @@ for sh in xlrd.open_workbook(r"Same thing again").sheets():
             myCell = sh.cell(row, col)
             if myCell.value == str2Match:
                 print('___________________________________________________________________________________________')
-                #print('Found!')
-                #print(xl_rowcol_to_cell(row, col))
-               ## print ("Gemstone	Refractive Index	Double Refraction")
                 custom_fig = Figlet(font='Doom')
                 print(custom_fig.renderText(sheet1.row_values(row)[0]))
                 print('___________________________________________________________________________________________')
