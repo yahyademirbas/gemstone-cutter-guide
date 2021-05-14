@@ -40,12 +40,12 @@ arr = np.asarray(Ratios)
 fla_arr = arr.flatten()
 str2Match = Ratios[0]
 
-#For Example: workbook1 = xlrd.open_workbook(r"C:\Users\user\Desktop\gemstone-cutter-guide\.venv\Gem-List.xls")
+# For Example: workbook1 = xlrd.open_workbook(r"C:\Users\user\Desktop\gemstone-cutter-guide\.venv\Gem-List.xls")
 workbook1 = xlrd.open_workbook(r"Path of the Gem File in the folder.")
 sheet1 = workbook1.sheet_by_index(0)
 
 
-#For Example: for sh in xlrd.open_workbook(r"C:\Users\user\Desktop\gemstone-cutter-guide\.venv\Gem-List.xls").sheets():
+# For Example: for sh in xlrd.open_workbook(r"C:\Users\user\Desktop\gemstone-cutter-guide\.venv\Gem-List.xls").sheets():
 for sh in xlrd.open_workbook(r"Same thing again").sheets():
     for row in range(sh.nrows):
         for col in range(sh.ncols):
