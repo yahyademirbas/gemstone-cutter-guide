@@ -1,3 +1,4 @@
+
 <h1>gemstone-cutter-guide</h1>
 <body>Gemstone Cutter's Guide</body>
 <br></br>
@@ -52,3 +53,4 @@ For Example
 `"C:\Program Files\Python38\python.exe" "C:\Users\user\Desktop\gemstone-cutter-guide\.venv\guide.py"
 pause`
 
+![image](https://user-images.githubusercontent.com/74156901/118299252-3258eb80-b4e9-11eb-90fa-70195be8cae4.jpg)
