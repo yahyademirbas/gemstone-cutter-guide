@@ -1,6 +1,8 @@
 <h1>gemstone-cutter-guide</h1>
 <body>Gemstone Cutter's Guide</body>
+
 <body>Gem Cutter's Guide</body>
+
 <body>Lapidary's Guide</body>
 
 <h2>Program is still in development. There will be an UI in the future.</h2>
