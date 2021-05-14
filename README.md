@@ -3,7 +3,7 @@ Gemstone Cutter's Guide
 
 Gem Cutter's Guide
 
-Lapidary's Guide.
+Lapidary's Guide
 
 <h2>Program is still in development. There will be an UI in the future.</h2>
 
