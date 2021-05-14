@@ -52,5 +52,5 @@ For Example
 
 `"C:\Program Files\Python38\python.exe" "C:\Users\user\Desktop\gemstone-cutter-guide\.venv\guide.py"
 pause`
+![image](https://user-images.githubusercontent.com/74156901/118299753-d04cb600-b4e9-11eb-9f3b-2e5948992ea6.jpg)
 
-![image](https://user-images.githubusercontent.com/74156901/118299252-3258eb80-b4e9-11eb-90fa-70195be8cae4.jpg)
