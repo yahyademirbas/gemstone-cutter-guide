@@ -25,7 +25,8 @@ btw I've manipulated the gemstone names with Regex to fit in my python script.
 
 
 
-If it is your first time using a Python code, first of all you should install Python to your computer. You don't have to install an IDE like PyCharm, just install Python interpreter from here: https://www.python.org/downloads/
+<strong> If it is your first time using a Python code, first of all you should install Python to your computer. You don't have to install an IDE like PyCharm, just install Python interpreter from here: https://www.python.org/downloads/
+ </strong>
 
 ### Install Python dependencies
 Run the following line in the project folder with terminal: 
